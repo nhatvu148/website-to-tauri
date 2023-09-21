@@ -1,8 +1,8 @@
 [package]
 name = "app"
 version = "1.0.0"
-description = "PSJ Documentation"
-authors = ["technostar"]
+description = "My New App"
+authors = ["nhatvu148"]
 license = ""
 repository = ""
 default-run = "app"
